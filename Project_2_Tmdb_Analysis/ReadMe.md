@@ -1,4 +1,4 @@
-#Project 2 : Investigate TMDB Movies Dataset
+#Project 2 : Investigate TMDB Movies Dataset#
 
 ##Project Overview
 In this project, we had to analyze a dataset and then communicate our findings about it. 
